@@ -1,0 +1,148 @@
+body {
+	display:none;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.container {
+    display: flex;
+}
+
+.box {
+    width: 150px;
+    height: 250px;
+    background-color: rgb(255, 255, 255);
+    margin: 3px;
+    border-radius: 15px;
+}
+
+.aracplakayazi {
+    margin-left: 18px;
+    margin-top: 16px;
+    font-size: large;
+}
+
+.kaydetme {
+    border-radius: 20px;
+    color: yellowgreen;
+    width: 200px;
+    height: 50px;
+    padding-left: 3px;
+    padding-right: 15px;
+    font-family: sans-serif;
+    background-color: rgb(0 0 0 / 57%);
+    display: inline-flex;
+    justify-content: space-around;
+}
+
+.iptal {
+    color: white;
+    background: #c71818;
+    border-radius: 30px;
+    margin-top: 6px;
+    margin-bottom: 4px;
+    padding-left: 1px;
+    padding-right: 6px;
+    margin-left: 3px;
+}
+
+.iptalyazi {
+    color: white;
+    margin-left: 5px;
+    margin-top: 13px;
+}
+
+.fa-save {
+    font-size: 24px;
+    margin-left: 6px;
+    margin-top: 6px;
+    color: #ffffff;
+    padding: 7px;
+    background: #2dad2d;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-radius: 18px;
+}
+
+.fa-times-circle {
+    font-size: 29px;
+    margin-left: 4px;
+    margin-top: 6px;
+}
+
+.kaydetyazi {
+    color: white;
+    margin-left: 5px;
+    margin-top: 13px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.aracyazi {
+    margin-top: 200px;
+    width: 200px;
+    height: 55px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    margin-left: 5px;
+    border-radius: 9px;
+    overflow: hidden;
+    font-family: 'Roboto';
+}
+
+.fa-car-alt {
+    background-color: rgb(224, 131, 24);
+    color: white;
+    font-size: 25px;
+    padding: 15px;
+    border-radius: 2px;
+}
+
+.fa-caret-up {
+    color: tomato;
+    font-size: 60px;
+    margin-left: 38%;
+}
+
+.fa-caret-down {
+    color: tomato;
+    font-size: 60px;
+    margin-left: 5px;
+    margin-bottom: 80px;
+    margin-top: -195px;
+    margin-left: 50px;
+}
+
+.text1 {
+    margin-top: 8px;
+    font-size: 100px;
+    max-height: 10px;
+    max-width: 10px;
+    font-family: sans-serif;
+    margin-left: 42px;
+}
+
+.text2 {
+    margin-top: 8px;
+    font-size: 100px;
+    max-height: 10px;
+    max-width: 10px;
+    margin-left: -3px;
+}
+
+.arttÄ±rmabuton {
+    width: 250px;
+    height: 250px;
+    display: block;
+}
+
+#menucu {
+	position: absolute;
+    top: 60vh;
+    left: 24%;
+    zoom: 80%;
+}
